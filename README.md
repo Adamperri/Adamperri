@@ -1,9 +1,4 @@
 ## Hi there 👋
-
-<!--
-**Adamperri/Adamperri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on developing my first website
 - 🌱 I’m currently learning javascript and networking backend
 - 👯 I’m looking to collaborate on Fortnie
